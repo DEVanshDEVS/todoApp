@@ -14,3 +14,12 @@ A simple and modular Express.js backend for managing todos. Built with MongoDB, 
 - Default homepage at `/`
 
 ---
+
+📡 API Endpoints
+GET / – Homepage
+
+POST /api/v1/todos – Create a new todo
+
+GET /api/v1/todos – Get all todos
+
+(Additional routes based on your routes/todos.js)
